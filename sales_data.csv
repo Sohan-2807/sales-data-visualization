@@ -1,0 +1,28 @@
+Order_ID,Date,Product,Category,Quantity,Unit_Price,Unit_Cost
+1001,2025-01-15,Wireless Mouse,Accessories,12,25.00,12.00
+1002,2025-01-28,Mechanical Keyboard,Accessories,8,80.00,45.00
+1003,2025-02-04,Gaming Monitor,Electronics,4,300.00,210.00
+1004,2025-02-18,USB-C Hub,Accessories,15,35.00,18.00
+1005,2025-03-02,Standing Desk,Furniture,3,450.00,310.00
+1006,2025-03-21,Ergonomic Chair,Furniture,5,220.00,140.00
+1007,2025-04-10,Laptop Pro 15,Electronics,3,1200.00,850.00
+1008,2025-04-25,Wireless Mouse,Accessories,20,25.00,12.00
+1009,2025-05-05,Gaming Monitor,Electronics,6,300.00,210.00
+1010,2025-05-19,HD Webcam,Electronics,10,75.00,40.00
+1011,2025-06-11,Mechanical Keyboard,Accessories,14,80.00,45.00
+1012,2025-06-27,Ergonomic Chair,Furniture,4,220.00,140.00
+1013,2025-07-08,Laptop Pro 15,Electronics,5,1200.00,850.00
+1014,2025-07-22,USB-C Hub,Accessories,18,35.00,18.00
+1015,2025-08-04,Standing Desk,Furniture,6,450.00,310.00
+1016,2025-08-19,Wireless Mouse,Accessories,25,25.00,12.00
+1017,2025-09-03,Gaming Monitor,Electronics,7,300.00,210.00
+1018,2025-09-17,HD Webcam,Electronics,12,75.00,40.00
+1019,2025-10-05,Laptop Pro 15,Electronics,4,1200.00,850.00
+1020,2025-10-24,Mechanical Keyboard,Accessories,11,80.00,45.00
+1021,2025-11-09,Ergonomic Chair,Furniture,8,220.00,140.00
+1022,2025-11-26,Standing Desk,Furniture,4,450.00,310.00
+1023,2025-12-12,Laptop Pro 15,Electronics,6,1200.00,850.00
+1024,2025-12-20,Wireless Mouse,Accessories,30,25.00,12.00
+1025,2025-12-28,Gaming Monitor,Electronics,8,300.00,210.00
+1026,INVALID_DATE,Wireless Mouse,Accessories,5,25.00,12.00
+1027,2025-08-15,USB-C Hub,Accessories,,35.00,18.00
